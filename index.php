@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>EC2 Terramino deployed by PGP</title>
+  <title>EC2 Terramino by PGP</title>
   <link rel="icon" href="https://www.terraform.io/favicon.ico" type="image/x-icon" />
   <style>
     html,
